@@ -1,0 +1,34 @@
+
+    body {
+    background-color: #333;
+    margin: 0;
+    padding: 0;
+    }
+    .container {
+    height: 95vh;
+    width: 95%;
+    margin: 20px auto;
+    border: 2px solid red;
+    box-shadow: 0 0 5px red;
+    }
+    .fullscreen {
+    background-color: #333;
+    }
+    .examples {
+    position: relative;
+    }
+    .examples div {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    padding-top: 10px;
+    font-size: 20px;
+    }
+    .examples a {
+    color: #ccc;
+    text-decoration: none;
+    padding: 0 10px;
+    }
+    .examples a:hover {
+    color: #fff;
+    }
